@@ -67,6 +67,9 @@ Estou sempre em busca de novos desafios que me permitam aplicar minhas habilidad
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## 🐍 Snake Eating My Contributions  
+
+![Snake animation](https://github.com/Denobi/workflow/blob/output/snake.svg)
+
 
 ###
