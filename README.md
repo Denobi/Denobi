@@ -67,8 +67,6 @@ Estou sempre em busca de novos desafios que me permitam aplicar minhas habilidad
 
 <br clear="both">
 
-![Snake animation](https://github.com/Denobi/Denobi/blob/output/snake.svg)
-
 
 
 ###
