@@ -69,7 +69,7 @@ Estou sempre em busca de novos desafios que me permitam aplicar minhas habilidad
 
 ## 🐍 Snake Eating My Contributions  
 
-![Snake animation](https://github.com/Denobi/workflow/blob/output/snake.svg)
+![Snake animation](https://github.com/Denobi/cobra.svg)
 
 
 ###
